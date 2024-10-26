@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820896572383",
+    "project_id": "message-app-5241c",
+    "storage_bucket": "message-app-5241c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820896572383:android:06267b4316fbd531641a6a",
+        "android_client_info": {
+          "package_name": "com.example.jobs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ3wq1DxZwFcePlKn8kOQFrG6IR94eTe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
